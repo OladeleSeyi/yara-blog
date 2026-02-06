@@ -18,7 +18,8 @@
             "pages": [
               "index",
               "crypto",
-              "revolut"
+              "revolut",
+              "usd-account"
             ]
           }
         ]
